@@ -11,7 +11,7 @@ def findLinear(numbers):    ##find a & b of linear sequence
         b=numbers[0]-a
         return (a,b)
     else:
-        print("Sequence is not linear")
+        print("Sequence isn't linear")
         
 sequence=[]
 first_difference=[]
